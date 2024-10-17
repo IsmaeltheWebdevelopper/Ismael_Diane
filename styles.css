@@ -1,0 +1,40 @@
+/* Body background color */
+body {
+    background-color: lightskyblue;
+}
+
+/* Table styles */
+table {
+    border: 1px solid black;
+    background-color: rgb(244, 226, 30);
+    margin-top: 25px;
+}
+
+/* Table caption */
+caption {
+    caption-side: top;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+/* Ordered list */
+ol {
+    padding-right: 10px;
+}
+
+/* Figure styles */
+figure {
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+figcaption {
+    text-align: center;
+}
+
+/* Image styles */
+img {
+    padding: 10px;
+    width: 150px;
+}
